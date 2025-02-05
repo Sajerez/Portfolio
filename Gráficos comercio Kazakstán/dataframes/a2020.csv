@@ -1,0 +1,141 @@
+"Continent ID","Continent","Country ID","Country","ISO 3","Trade Value"
+"af","Africa","afago","Angola","ago",207174
+"af","Africa","afben","Benin","ben",3992548
+"af","Africa","afbfa","Burkina Faso","bfa",4699
+"af","Africa","afbwa","Botswana","bwa",108.00000000000001
+"af","Africa","afciv","Cote d'Ivoire","civ",45242
+"af","Africa","afcmr","Cameroon","cmr",169290
+"af","Africa","afcod","Democratic Republic of the Congo","cod",9138775.000000002
+"af","Africa","afcog","Republic of the Congo","cog",15917
+"af","Africa","afdza","Algeria","dza",63163823
+"af","Africa","afegy","Egypt","egy",5792443
+"af","Africa","afeth","Ethiopia","eth",1591851
+"af","Africa","afgha","Ghana","gha",90035
+"af","Africa","afken","Kenya","ken",2860811
+"af","Africa","aflby","Libya","lby",1255
+"af","Africa","afmar","Morocco","mar",56726583
+"af","Africa","afmli","Mali","mli",939
+"af","Africa","afmoz","Mozambique","moz",4827
+"af","Africa","afmus","Mauritius","mus",13154
+"af","Africa","afnam","Namibia","nam",3757.9999999999995
+"af","Africa","afner","Niger","ner",762726.0000000001
+"af","Africa","afnga","Nigeria","nga",949768
+"af","Africa","afrwa","Rwanda","rwa",18190.000000000004
+"af","Africa","afsdn","Sudan","sdn",155250
+"af","Africa","afsen","Senegal","sen",10946296
+"af","Africa","afswz","Eswatini","swz",25
+"af","Africa","aftcd","Chad","tcd",6200
+"af","Africa","aftun","Tunisia","tun",16829979
+"af","Africa","aftza","Tanzania","tza",1031
+"af","Africa","afuga","Uganda","uga",36760
+"af","Africa","afzaf","South Africa","zaf",8892971
+"af","Africa","afzmb","Zambia","zmb",161838
+"as","Asia","asafg","Afghanistan","afg",620595170
+"as","Asia","asare","United Arab Emirates","are",494890718
+"as","Asia","asarm","Armenia","arm",6982351
+"as","Asia","asaze","Azerbaijan","aze",87097546
+"as","Asia","asbgd","Bangladesh","bgd",955038
+"as","Asia","asbhr","Bahrain","bhr",931412
+"as","Asia","asbrn","Brunei","brn",346329939
+"as","Asia","aschn","China","chn",9538153540
+"as","Asia","ascyp","Cyprus","cyp",10703466
+"as","Asia","asgeo","Georgia","geo",87698174
+"as","Asia","ashkg","Hong Kong","hkg",7485583
+"as","Asia","asidn","Indonesia","idn",52917855.00000001
+"as","Asia","asind","India","ind",1984241842
+"as","Asia","asirn","Iran","irn",146888312
+"as","Asia","asirq","Iraq","irq",1566311
+"as","Asia","asisr","Israel","isr",327060060
+"as","Asia","asjor","Jordan","jor",2756836
+"as","Asia","asjpn","Japan","jpn",680705310
+"as","Asia","askgz","Kyrgyzstan","kgz",596723932
+"as","Asia","askhm","Cambodia","khm",319434
+"as","Asia","askor","South Korea","kor",1179881599
+"as","Asia","askwt","Kuwait","kwt",410435
+"as","Asia","aslbn","Lebanon","lbn",1814129
+"as","Asia","aslka","Sri Lanka","lka",3893233
+"as","Asia","asmng","Mongolia","mng",29808917
+"as","Asia","asmys","Malaysia","mys",59231173
+"as","Asia","asnpl","Nepal","npl",5
+"as","Asia","asomn","Oman","omn",268849
+"as","Asia","aspak","Pakistan","pak",16382910
+"as","Asia","asphl","Philippines","phl",4327481
+"as","Asia","asprk","North Korea","prk",83
+"as","Asia","aspse","Palestine","pse",90294
+"as","Asia","asqat","Qatar","qat",5757534
+"as","Asia","assau","Saudi Arabia","sau",20417893.000000004
+"as","Asia","assgp","Singapore","sgp",78895728
+"as","Asia","assyr","Syria","syr",13200.999999999998
+"as","Asia","astha","Thailand","tha",11191708
+"as","Asia","astjk","Tajikistan","tjk",701491004
+"as","Asia","astkm","Turkmenistan","tkm",76623314
+"as","Asia","astur","Turkey","tur",2341289908
+"as","Asia","astwn","Chinese Taipei","twn",85758452
+"as","Asia","asuzb","Uzbekistan","uzb",2142268774
+"as","Asia","asvnm","Vietnam","vnm",78621334
+"eu","Europe","eualb","Albania","alb",1924545
+"eu","Europe","euand","Andorra","and",165
+"eu","Europe","euaut","Austria","aut",883612309
+"eu","Europe","eubel","Belgium","bel",243254483
+"eu","Europe","eubgr","Bulgaria","bgr",220350156
+"eu","Europe","eubih","Bosnia and Herzegovina","bih",2626678
+"eu","Europe","eublr","Belarus","blr",92169222
+"eu","Europe","euche","Switzerland","che",1576685071
+"eu","Europe","eucze","Czechia","cze",292156175
+"eu","Europe","eudeu","Germany","deu",382899866
+"eu","Europe","eudnk","Denmark","dnk",19766258
+"eu","Europe","euesp","Spain","esp",1243370413
+"eu","Europe","euest","Estonia","est",27746941
+"eu","Europe","eufin","Finland","fin",185365611
+"eu","Europe","eufra","France","fra",1867745005.0000002
+"eu","Europe","eugbr","United Kingdom","gbr",791078011
+"eu","Europe","eugrc","Greece","grc",1452548911.0000002
+"eu","Europe","euhrv","Croatia","hrv",312143819
+"eu","Europe","euhun","Hungary","hun",142305343
+"eu","Europe","euirl","Ireland","irl",8043807
+"eu","Europe","euisl","Iceland","isl",248053.99999999997
+"eu","Europe","euita","Italy","ita",6759672966
+"eu","Europe","eultu","Lithuania","ltu",406439826
+"eu","Europe","eulux","Luxembourg","lux",57947
+"eu","Europe","eulva","Latvia","lva",36595669
+"eu","Europe","eumda","Moldova","mda",63626422
+"eu","Europe","eumkd","North Macedonia","mkd",1187026
+"eu","Europe","eumlt","Malta","mlt",31099965
+"eu","Europe","eumne","Montenegro","mne",102042
+"eu","Europe","eunld","Netherlands","nld",3139220001
+"eu","Europe","eunor","Norway","nor",5286470
+"eu","Europe","eupol","Poland","pol",385249784
+"eu","Europe","euprt","Portugal","prt",4611740
+"eu","Europe","eurou","Romania","rou",1285292282.0000002
+"eu","Europe","eurus","Russia","rus",5295630287
+"eu","Europe","eusrb","Serbia","srb",103211912
+"eu","Europe","eusvk","Slovakia","svk",76988219
+"eu","Europe","eusvn","Slovenia","svn",12098541
+"eu","Europe","euswe","Sweden","swe",32966690
+"eu","Europe","euukr","Ukraine","ukr",457615774
+"na","North America","nabhs","Bahamas","bhs",5317939
+"na","North America","nabmu","Bermuda","bmu",35
+"na","North America","nacan","Canada","can",286850822
+"na","North America","nacri","Costa Rica","cri",6430
+"na","North America","nacub","Cuba","cub",336
+"na","North America","nacym","Cayman Islands","cym",40055
+"na","North America","nadom","Dominican Republic","dom",5463805
+"na","North America","nagtm","Guatemala","gtm",71152
+"na","North America","namex","Mexico","mex",2919901
+"na","North America","nanic","Nicaragua","nic",85560
+"na","North America","naslv","El Salvador","slv",206638
+"na","North America","natto","Trinidad and Tobago","tto",58163
+"na","North America","nausa","United States","usa",987624758
+"oc","Oceania","ocaus","Australia","aus",13200922
+"oc","Oceania","ocnzl","New Zealand","nzl",3633.0000000000005
+"oc","Oceania","ocpng","Papua New Guinea","png",456
+"oc","Oceania","ocpyf","French Polynesia","pyf",397
+"sa","South America","saarg","Argentina","arg",10323297
+"sa","South America","sabol","Bolivia","bol",19684
+"sa","South America","sabra","Brazil","bra",71049839
+"sa","South America","sachl","Chile","chl",573647
+"sa","South America","sacol","Colombia","col",2347283
+"sa","South America","saecu","Ecuador","ecu",73034
+"sa","South America","saguy","Guyana","guy",223.99999999999997
+"sa","South America","saper","Peru","per",337799
+"sa","South America","sapry","Paraguay","pry",691

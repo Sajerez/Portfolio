@@ -1,0 +1,42 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Asia","as","China","aschn","chn",2046048785,2015
+"Asia","as","Georgia","asgeo","geo",4045165.9999999995,2015
+"Asia","as","Indonesia","asidn","idn",13986500,2015
+"Asia","as","India","asind","ind",176017534,2015
+"Asia","as","Israel","asisr","isr",189564282,2015
+"Asia","as","Japan","asjpn","jpn",346922005,2015
+"Asia","as","Kyrgyzstan","askgz","kgz",15665,2015
+"Asia","as","South Korea","askor","kor",667620200,2015
+"Asia","as","Singapore","assgp","sgp",119866055,2015
+"Asia","as","Turkey","astur","tur",333892557,2015
+"Asia","as","Uzbekistan","asuzb","uzb",23622423,2015
+"Europe","eu","Austria","euaut","aut",415403112.99999994,2015
+"Europe","eu","Belgium","eubel","bel",2390453.9999999995,2015
+"Europe","eu","Bulgaria","eubgr","bgr",9673601.999999998,2015
+"Europe","eu","Belarus","eublr","blr",318854.00000000006,2015
+"Europe","eu","Switzerland","euche","che",2348131216,2015
+"Europe","eu","Czechia","eucze","cze",297893739,2015
+"Europe","eu","Germany","eudeu","deu",163141830,2015
+"Europe","eu","Denmark","eudnk","dnk",12026275,2015
+"Europe","eu","Spain","euesp","esp",1090515426,2015
+"Europe","eu","Estonia","euest","est",3491345.9999999995,2015
+"Europe","eu","Finland","eufin","fin",170590081,2015
+"Europe","eu","France","eufra","fra",2473961722,2015
+"Europe","eu","United Kingdom","eugbr","gbr",67983698,2015
+"Europe","eu","Greece","eugrc","grc",1296578345,2015
+"Europe","eu","Croatia","euhrv","hrv",134738413,2015
+"Europe","eu","Italy","euita","ita",7892581410,2015
+"Europe","eu","Lithuania","eultu","ltu",26379013,2015
+"Europe","eu","Latvia","eulva","lva",57649677,2015
+"Europe","eu","Malta","eumlt","mlt",99267975,2015
+"Europe","eu","Netherlands","eunld","nld",3734938588,2015
+"Europe","eu","Poland","eupol","pol",127637889.00000001,2015
+"Europe","eu","Portugal","euprt","prt",630998512.9999999,2015
+"Europe","eu","Romania","eurou","rou",1261612100,2015
+"Europe","eu","Russia","eurus","rus",611392782.9999999,2015
+"Europe","eu","Serbia","eusrb","srb",109986888,2015
+"Europe","eu","Sweden","euswe","swe",157902758,2015
+"Europe","eu","Ukraine","euukr","ukr",130545987,2015
+"North America","na","Canada","nacan","can",78411591,2015
+"North America","na","United States","nausa","usa",6085106,2015
+"Oceania","oc","Australia","ocaus","aus",1622191,2015

@@ -1,0 +1,38 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Trade Value Growth","Trade Value Growth Value","Year"
+"Asia","as","United Arab Emirates","asare","are",249622528.00000003,2.689552038496765,181965933.00000003,2022
+"Asia","as","Azerbaijan","asaze","aze",74755675,,,2022
+"Asia","as","Brunei","asbrn","brn",539668097.0000001,-0.3917580471138188,-347590820.9999999,2022
+"Asia","as","China","aschn","chn",4102964163,1.2023700524671932,2239987431,2022
+"Asia","as","India","asind","ind",1697604218,0.11124271242837273,169941360,2022
+"Asia","as","Israel","asisr","isr",776570109,2.868801244751765,575843822,2022
+"Asia","as","Japan","asjpn","jpn",78671975,0.05811952523138807,4321230,2022
+"Asia","as","Kyrgyzstan","askgz","kgz",576225,0.8745852147774149,268837,2022
+"Asia","as","South Korea","askor","kor",4393005541.999999,1.5862217193023225,2694386467.999999,2022
+"Asia","as","Singapore","assgp","sgp",1811498094,0.6311457868448228,700930229,2022
+"Asia","as","Thailand","astha","tha",35231362,,,2022
+"Asia","as","Turkey","astur","tur",2898124163,0.7371710289313326,1229823164,2022
+"Asia","as","Uzbekistan","asuzb","uzb",56467068,0.963287776224891,27705585.000000004,2022
+"Europe","eu","Austria","euaut","aut",1430789174,0.008820932431814383,12510540,2022
+"Europe","eu","Bulgaria","eubgr","bgr",50171845,-0.8250559674789155,-236616131,2022
+"Europe","eu","Switzerland","euche","che",827672744.0000001,-0.13702236277136542,-131416701.99999988,2022
+"Europe","eu","Czechia","eucze","cze",445647145,-0.23990875401323158,-140660285,2022
+"Europe","eu","Germany","eudeu","deu",411772920,6.20981808579768,354660117,2022
+"Europe","eu","Spain","euesp","esp",2215356565,0.40703217474601,640867648,2022
+"Europe","eu","Estonia","euest","est",5809053.000000001,,,2022
+"Europe","eu","Finland","eufin","fin",30618888,-0.7983991693796801,-121259891,2022
+"Europe","eu","France","eufra","fra",2823376643,0.34954808891815076,731286212.0000002,2022
+"Europe","eu","United Kingdom","eugbr","gbr",636111279,,,2022
+"Europe","eu","Gibraltar","eugib","gib",6202682,,,2022
+"Europe","eu","Greece","eugrc","grc",1671483440,0.3726030072782456,453736261,2022
+"Europe","eu","Croatia","euhrv","hrv",270677666,-0.5205480430395979,-293878724,2022
+"Europe","eu","Hungary","euhun","hun",196232305,-0.0763103742381786,-16211680,2022
+"Europe","eu","Italy","euita","ita",11602312398,0.3452579751571946,2977712052,2022
+"Europe","eu","Lithuania","eultu","ltu",350821840,0.10083952176031581,32136116,2022
+"Europe","eu","Malta","eumlt","mlt",240224846.00000003,-0.12647568886376775,-34781633.99999997,2022
+"Europe","eu","Netherlands","eunld","nld",4299081223.999999,0.15168801391914472,566228947.999999,2022
+"Europe","eu","Poland","eupol","pol",302664679,0.517669606157939,103237427.00000003,2022
+"Europe","eu","Romania","eurou","rou",2289588751,0.6032890918860917,861531414.0000002,2022
+"Europe","eu","Russia","eurus","rus",19696902,-0.23767312234611918,-6140967,2022
+"Europe","eu","Slovakia","eusvk","svk",36753841,0.20542503961416275,6263483.000000004,2022
+"North America","na","Panama","napan","pan",115594425,,,2022
+"North America","na","United States","nausa","usa",575174608,0.21387934432713376,101342830,2022
